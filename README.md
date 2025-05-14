@@ -27,7 +27,7 @@ A sophisticated, animated coming soon template crafted with modern web technolog
 git clone https://github.com/danishkhanx/Waitlist-Page.git
 
 # Navigate to the project
-cd coming-soon
+cd Waitlist-Page
 
 # Install dependencies
 npm install
